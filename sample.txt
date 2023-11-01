@@ -1,4 +1,10 @@
 Welcome To git selenium training demo.
 Vim changes- Hi  
 This is a sample text file.
+<<<<<<< HEAD
 Hi I am Sk ::))
+=======
+Changes by arpi -
+Hi
+edited on 1st Nov
+>>>>>>> d525c7c9c67cbcd80177b946a33d63d10bd7e75b
